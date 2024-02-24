@@ -70,4 +70,4 @@ layout: default
 * I'm an observer of the environment I live in and people around me
 * In my spare time I like decorating cookies with Royal Icing (you can see a short introduction [here](https://annasalek.github.io/Royal_Icing/), but it's still under construction)
 
-![Image](mik.jpg "A little fellow I made for Christmas")
+![Image](../images/mik.jpg "A little fellow I made for Christmas")

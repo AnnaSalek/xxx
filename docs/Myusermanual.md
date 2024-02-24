@@ -1,3 +1,8 @@
+---
+title: My yser manual
+layout: default
+---
+
 ![Image](torii.jpg "Torii gate at Itsukushima Shrine")
 
 # I'm ALWAYS paying attention even when you think I'm not :)<!-- omit in toc -->

@@ -56,7 +56,7 @@ layout: default
 
 ## If I were an animated gif/meme/animal/song, I would be...
 
-![Image](brain.png "3 am, the darkest hour of the night :D")
+![Image](../images/brain.png "3 am, the darkest hour of the night :D")
 
 ## My favorite saying:
 
